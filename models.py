@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# AI Acknowledgement: AI was used for help with coding and for documentation purposes in this file
 """
 Four classic models from scratch with k-fold CV across multiple dataset versions.
 Models:

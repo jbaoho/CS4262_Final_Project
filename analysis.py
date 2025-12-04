@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
+# AI Acknowledgement: AI was used for help with coding and for documentation purposes in this file
 """
-results_analysis.py
+analysis.py
 
 Produces:
   - outputs/kaggle_tables.png: PNG containing three even tables:
@@ -9,8 +10,6 @@ Produces:
       * Averages by Model (4x2, sorted)
   - outputs/kaggle_vs_cv_scatter.png: Kaggle vs predicted CV mean accuracy (all 16 combos)
   - outputs/train_time_bar.png: Grouped bar chart of mean training time per DR x Model
-
-Run: python results_analysis.py
 """
 
 import os
